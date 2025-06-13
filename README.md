@@ -18,7 +18,7 @@
 
 <!-- Contact -->
 <div align="center">
-  📫 Reach me at: <a href="mailto:dung250205@gmail.com">dung250205@gmail.com</a>  
+  📫 Reach me at: <a href="mailto:SAMPLE"></a>  
   <br/>
   🌐 Portfolio coming soon...
 </div>
@@ -58,9 +58,8 @@
 </div>
 
 <p align="center">
-  <a href="mailto:dung250205@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/dunggdinh"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://discord.com/users/490818457181618177"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
 <!-- GitBook badge -->
