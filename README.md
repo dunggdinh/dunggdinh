@@ -9,7 +9,7 @@
 
 <!-- About -->
 <div align="center">
-  💻 TEST <b>back-end systems</b>.  
+  💻 TEST <b></b>.  
   <br><br>
   🔍 TEST
 </div>
