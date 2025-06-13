@@ -4,14 +4,14 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm dunggdinh</h1>
-  <h3><em>"If you have a chance to make a choice, make one that you know you won't regret."</em></h3>
+  <h3><em>"TEST."</em></h3>
 </div>
 
 <!-- About -->
 <div align="center">
-  💻 I specialize in building <b>complex Discord bots</b> and scalable <b>back-end systems</b>.  
+  💻 TEST <b>back-end systems</b>.  
   <br><br>
-  🔍 Passionate about automation, creative logic, and clean code.
+  🔍 TEST
 </div>
 
 <br/>
@@ -72,4 +72,3 @@
 
 <!-- horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-user-images.githubusercontent.com
