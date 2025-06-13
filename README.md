@@ -4,27 +4,29 @@
 <!-- Header -->
 <div align="center">
   <h1>Hi 👋, I'm dunggdinh</h1>
-  <h3><em>"TEST."</em></h3>
+  <!--<h3><em>"TEST."</em></h3>-->
 </div>
 
-<!-- About -->
+<!-- About 
 <div align="center">
   💻 TEST <b></b>.  
   <br><br>
   🔍 TEST
 </div>
 
+
 <br/>
 
-<!-- Contact -->
+<!-- Contact 
 <div align="center">
   📫 Reach me at: <a href="mailto:SAMPLE"></a>  
   <br/>
   🌐 Portfolio coming soon...
 </div>
 
-<!-- horizontal divider -->
+<!-- horizontal divider 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+-->
 
 <!-- Tech Stack -->
 <div align="center">
@@ -52,7 +54,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dunggdinh&theme=darkhub&no-frame=true&column=4&row=1" />
 </p>
 
-<!-- Connect -->
+<!-- Connect 
 <div align="center">
   <h2>🌐 Connect With Me</h2>
 </div>
@@ -61,6 +63,7 @@
   <a href="mailto:"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/dunggdinh"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+-->
 
 <!-- GitBook badge -->
 <p align="center">
